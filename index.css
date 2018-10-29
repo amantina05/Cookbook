@@ -1,0 +1,16 @@
+body#page1 {
+  background-color: orange;
+}
+body#page2 {
+  background-color: beige;
+}
+body#page3 {
+  background-color: red;
+}
+body#page4 {
+  background-color: green;
+}
+
+ul#otis {
+list-style-type: none;
+}
